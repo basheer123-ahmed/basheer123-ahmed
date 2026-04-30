@@ -43,5 +43,5 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 ### Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/basheer-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basheer-ahmed" height="30" width="40" /></a>
-<a href="mailto:basheer.ahmed@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="basheer-ahmed" height="30" width="40" /></a>
+<a href="mailto:basheerm2006@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="basheerm2006@gmail.com" height="30" width="40" /></a>
 </p>
