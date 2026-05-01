@@ -20,6 +20,10 @@
 ### My Featured Projects
 
 *   **AI Complaint Management System** — A multilingual platform leveraging AI for efficient grievance handling and categorization.
+*       I build real-world scalable web applications with AI integration  
+      🔗 Live Project:  
+                            https://citizens-ai-1.onrender.com 
+                            
 *   **Student Attendance System** — An automated tracker with integrated parent notifications to bridge communication gaps.
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊
