@@ -44,8 +44,16 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 ---
 
-### Connect with Me
+### 📲 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/basheer-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basheer-ahmed" height="30" width="40" /></a>
-<a href="mailto:basheerm2006@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="basheerm2006@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/m-basheer-ahmed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:basheerm2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/iam__basheer/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
