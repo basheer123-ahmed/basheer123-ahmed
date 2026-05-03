@@ -105,11 +105,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basheer123-ahmed&show_icons=true&theme=radical" alt="Basheer's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=basheer123-ahmed&theme=radical" alt="Basheer's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basheer123-ahmed&show_icons=true&theme=radical" alt="Basheer's Stats" height="195" />
+  <img src="https://streak-stats.demolab.com?user=basheer123-ahmed&theme=radical" alt="Basheer's Streak" height="195" />
 </p>
 
 ---
