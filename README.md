@@ -34,6 +34,12 @@
                             
 *   **Student Attendance System** — An automated tracker with integrated parent notifications to bridge communication gaps.
 
+### 🏆 Achievements & Highlights
+
+*   🌟 **[Your Achievement Here]** — Briefly describe the achievement, such as winning a hackathon or a coding competition.
+*   📜 **[Your Certification Here]** — Mention any notable certifications you've completed.
+*   🚀 **[Other Highlights]** — E.g., Open-source contributions, leadership roles, or technical writing.
+
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊
 
 <a href="https://www.buymeacoffee.com/basheer123">
